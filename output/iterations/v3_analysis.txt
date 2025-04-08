@@ -1,0 +1,17 @@
+Summary Judgment:
+This script follows the principles of Direct Instruction very well. It clearly states the learning objective, models the skill, provides guided practice, and offers independent practice for the learner.
+
+Specific Feedback:
+
+1. **Direct Instruction Structure**: The script effectively uses the "Tell → Show → Guide → You Try" structure. The learning objective is clearly stated at the beginning, and the examples are logically sequenced. Guided and independent practice are clearly marked.
+
+2. **Instructional Language**: The language is mostly direct, concise, and consistent. However, the script could be improved by eliminating the question "Does that make sense?" after the explanation of the area formulas for square and triangle. Direct Instruction aims to avoid open-ended or vague phrases.
+
+3. **Cognitive Load**: The script does a good job of managing cognitive load. It teaches a single concept and provides sufficient time and prompting for mental processing or student responses.
+
+4. **Math-Specific Instructional Design**: The script focuses on a specific math strategy and the examples align well with the concept being taught. It clearly states the rule or process.
+
+5. **Video Learning Suitability**: The script is clearly designed for a single learner watching a video alone. It offers engagement, direction, and support.
+
+Suggested Rewrites/Revised Phrasing:
+Instead of saying "Does that make sense?", consider stating "Remember, the area of a square is length times width, and the area of a triangle is one half base times height."

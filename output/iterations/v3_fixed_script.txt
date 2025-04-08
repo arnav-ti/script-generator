@@ -1,0 +1,28 @@
+Final Script:
+
+voiceover : "Today you'll learn how to find the area of a shape by decomposing it into smaller, simpler shapes, and rearranging the pieces. This is a skill that will help you solve complex problems."
+screen : 'Slide text: "Learning Objective: Finding Area by Decomposing and Rearranging"'
+
+voiceover : "Watch closely as I model this concept with a simple example. We have a rectangle that's divided into two squares and two triangles."
+screen : 'Slide displays a rectangle divided into two squares and two triangles.'
+
+voiceover : "To find the area of this rectangle, we first identify the areas of the simpler shapes within it. Remember, the area of a square is length times width, and the area of a triangle is one half base times height."
+screen : 'Slide shows the formula for area of a square and triangle, with relevant parts of the shapes highlighted.'
+
+voiceover : "Let's say each square's side length is 2 units, and each triangle's base and height are also 2 units. So, the area of each square is 2 times 2, which is 4 square units. The area of each triangle is one half times 2 times 2, which gives us 2 square units."
+screen : 'Slide displays calculations for the area of each square and triangle.'
+
+voiceover : "Now, to find the total area of the rectangle, we add up the areas of the squares and triangles. That's 4 plus 4 plus 2 plus 2, which equals 12 square units."
+screen : 'Slide shows the addition of the areas of the squares and triangles to find the total area of the rectangle.'
+
+voiceover : "So, the process to find the area of a complex shape is to calculate the area of each smaller shape and then add these areas together to find the total area."
+screen : 'Slide text: "Process: Calculate the area of each smaller shape, then add these areas together."'
+
+voiceover : "Now, let's apply what we've learned together. Suppose we have a rectangle that's divided into three squares and two triangles. Each square's side length and each triangle's base and height are all 3 units. Now, pause the video and try to calculate the areas of these shapes."
+screen : 'Slide shows a new example of a rectangle divided into three squares and two triangles. The side length of each square and the base and height of each triangle are all 3 units.'
+
+voiceover : "[pause] Great! Let's add these areas up to find the total area of the rectangle. The area of each square is 9 square units, and each triangle's area is 4.5 square units. Adding these up, we get a total area of 31.5 square units."
+screen : 'Slide shows the calculations for the area of each square and triangle, and the total area of the rectangle.'
+
+voiceover : "Now it's your turn. Remember, the process is to calculate the area of each smaller shape and then add these areas together. We have a new shape for you to practice with. It's a rectangle divided into two squares and one triangle. The side length of each square is 3 units, and the base and height of the triangle are also 3 units. Give it a try!"
+screen : 'Slide displays a new shape for students to practice on, along with a reminder of the process and the dimensions of the shapes.'

@@ -1,0 +1,27 @@
+**Summary Judgment:**
+The script largely follows Direct Instruction (DI) principles. However, it could be improved in a few areas to better align with these principles.
+
+**1. Direct Instruction Structure**
+The script has a clear learning objective and follows the "Tell → Show → Guide → You Try" structure. However, the guided practice could be more clearly marked. 
+
+**2. Instructional Language**
+The language is direct, concise, and consistent. The script avoids open-ended or vague phrases and is spoken in the second person. 
+
+**3. Cognitive Load**
+The script presents only essential steps and concepts and avoids teaching too many ideas at once. There are clear pause moments for mental processing and student response.
+
+**4. Math Specific Instructional Design**
+The script focuses on the generalizable math strategy of decomposing shapes and aligns examples to the concept being taught. However, it could be improved by stating a clear rule or process.
+
+**5. Video Learning Suitability**
+The script is written for one learner watching a video alone, with no references to a group/class setting. It is engaging, directive, and supportive.
+
+**Specific Feedback:**
+- In the guided practice section, make it clear that it's a guided activity by using language such as "Let's do this together."
+- Add a clear rule or process after the first example. For example, "So, the process is to calculate the area of each smaller shape and then add these areas together to find the total area."
+- During the "You try" section, provide a hint or support if needed. For example, "Remember, the process is to calculate the area of each smaller shape and then add these areas together. Give it a try!"
+
+**Suggested Rewrites:**
+- "Now, let's apply what we've learned together. Suppose..."
+- "So, the process to find the area of a complex shape is to calculate the area of each smaller shape and then add these areas together to find the total area."
+- "Now it's your turn. Remember, the process is to calculate the area of each smaller shape and then add these areas together. Give it a try!"

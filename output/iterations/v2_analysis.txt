@@ -1,0 +1,22 @@
+**Summary Judgment:**
+This script does a good job of adhering to Direct Instruction (DI) principles. It follows a "Tell → Show → Guide → You Try" structure and uses clear, direct language. It also manages cognitive load well, introducing one concept at a time and providing clear pause moments for student processing. The script is also suitable for video learning, being designed for a single learner and providing a directive, engaging experience. 
+
+**Specific Feedback:**
+
+1. **Direct Instruction Structure:** The script effectively follows the DI structure. The learning objective is clearly stated at the beginning, and the examples are logically sequenced. Guided and independent practice are also clearly marked.
+
+2. **Instructional Language:** The language in the script is direct, concise, and consistent, which is great. There are no open-ended or vague phrases, and it's spoken in the second person.
+
+3. **Cognitive Load:** The script does a good job of managing cognitive load. It presents only essential steps and concepts, avoids teaching too many ideas at once, and provides clear pause moments for mental processing or student response.
+
+4. **Math-Specific Instructional Design:** The script focuses on a generalizable math strategy: decomposing shapes to find the area. The examples are aligned to the concept being taught, and a clear process is stated.
+
+5. **Video Learning Suitability:** The script is clearly written for one learner watching a video alone. There are no references to a group or class setting, and the tone is directive and supportive, which should make the learning experience engaging for students.
+
+**Recommendations:**
+
+1. Consider adding short checks for understanding after key points. For example, after explaining how to find the area of each shape, you could ask, "Does that make sense?".
+   
+2. In the guided practice, provide more explicit prompts for the student to pause the video and attempt the problem themselves before revealing the answer. For example, "Now, pause the video and try to calculate the areas of these shapes." This would ensure that students are actively engaged and practicing the concept.
+
+3. In the final independent practice task, provide specific dimensions for the shape the students are supposed to practice with. Currently, it says, "Slide displays a new shape for students to practice on," but doesn't specify the dimensions. This could cause confusion for the students as they won't have the necessary information to solve the problem.
