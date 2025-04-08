@@ -16,8 +16,8 @@ import sys
 from openai import OpenAI
 
 # Hardcoded file paths
-GENERATOR_PROMPT_FILE = 'genrator.txt'  # Note the intentional typo in the filename
-ANALYZER_PROMPT_FILE = 'analyser.txt'   # Note the British spelling
+GENERATOR_PROMPT_FILE = 'generator.txt'  
+ANALYZER_PROMPT_FILE = 'analyser.txt'   
 FIXER_PROMPT_FILE = 'fixer.txt'
 CONTENT_FILE = 'output/lesson-content.md'
 
